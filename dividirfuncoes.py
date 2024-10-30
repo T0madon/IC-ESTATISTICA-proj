@@ -12,6 +12,8 @@ import os
 from datetime import datetime
 
 
+print('Olá')
+
 try:
     # Conectando ao banco de dados
     connection = psycopg2.connect(database="banco2",
