@@ -13,6 +13,7 @@ from datetime import datetime
 
 
 print('Olá')
+print('Olá')
 
 try:
     # Conectando ao banco de dados
