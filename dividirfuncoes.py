@@ -11,8 +11,7 @@ from psycopg2 import Error
 import os
 from datetime import datetime
 
-print('Teste real ')
-print('123')
+print('teste teste teste')
 
 try:
     # Conectando ao banco de dados
