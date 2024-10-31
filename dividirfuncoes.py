@@ -11,7 +11,7 @@ from psycopg2 import Error
 import os
 from datetime import datetime
 
-print('odeio viadinhos')
+print('sdsddssdsdadsadsads')
 
 try:
     # Conectando ao banco de dados
