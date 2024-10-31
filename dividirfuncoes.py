@@ -11,7 +11,7 @@ from psycopg2 import Error
 import os
 from datetime import datetime
 
-print('mudei de novododsaodasodsao')
+print('mudei agora 22ho')
 
 try:
     # Conectando ao banco de dados
